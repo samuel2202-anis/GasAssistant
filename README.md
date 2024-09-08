@@ -13,7 +13,7 @@ Gas Assistant is an Android native app designed to help you plan your daily trip
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/gas-assistant.git
+   git clone https://github.com/samuel2202-anis/gas-assistant.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device.
